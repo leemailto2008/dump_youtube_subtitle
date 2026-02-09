@@ -1,0 +1,4 @@
+scrapetube
+youtube-transcript-api
+httpx
+pydantic
