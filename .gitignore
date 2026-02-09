@@ -11,6 +11,13 @@ ENV/
 .tmp_*/
 downloads/
 test_*/
+
+# Ignore all legacy/temp scripts
+ytsub_my*.py
+ytsub_ag01.py
+ytsub_ag02.py
+
+# Keep only essential docs
 *.md
 !README.md
 !SPEC.md
