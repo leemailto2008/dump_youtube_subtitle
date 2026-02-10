@@ -38,17 +38,17 @@
 
 ## 🚀 快速開始
 
-直接執行 `ytsub_ag02.py` 並傳入 YouTube 連結：
+直接執行 `ytsub.py` 並傳入 YouTube 連結：
 
 ```powershell
 # 下載單一影片字幕
-python ytsub_ag02.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python ytsub.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 # 下載整個播放清單
-python ytsub_ag02.py "https://www.youtube.com/playlist?list=PLB07BBAD7BF2ED4A1"
+python ytsub.py "https://www.youtube.com/playlist?list=PLB07BBAD7BF2ED4A1"
 
 # 下載頻道所有影片字幕
-python ytsub_ag02.py "https://www.youtube.com/c/YourChannelHandle"
+python ytsub.py "https://www.youtube.com/c/YourChannelHandle"
 ```
 
 ---
